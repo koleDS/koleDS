@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @koleDS
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python Machine Learning libraries
-- 💞️ I’m looking to collaborate on real world Data Science projects
+- 💞️ I’m looking forward to collaborate on real world Data Science projects
 - 📫 You can contact me through my e-mail pnikolads@gmail.com
 
 <!---
